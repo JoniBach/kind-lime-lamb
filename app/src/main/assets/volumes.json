@@ -1,0 +1,739 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1028,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "12I8EQAAQBAJ",
+            "etag": "B09wswUSjVg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/12I8EQAAQBAJ",
+            "volumeInfo": {
+                "title": "Physics for Cats",
+                "authors": [
+                    "Tom Gauld"
+                ],
+                "publisher": "Drawn and Quarterly",
+                "publishedDate": "2025-10-07",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781770468054"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1770468056"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Comics & Graphic Novels"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=12I8EQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=12I8EQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=12I8EQAAQBAJ&dq=cats&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=12I8EQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Physics_for_Cats.html?hl=&id=12I8EQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=12I8EQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Tom Gauld returns with Physics for Cats, his second collection of science-based cartoons for the New Scientist. Find out why every scientist worth their sodium chloride has a Tom Gauld cartoon taped to his electron microscope."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JwsSEQAAQBAJ",
+            "etag": "q82PJY3q83A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JwsSEQAAQBAJ",
+            "volumeInfo": {
+                "title": "How to Draw Squishy Cats and Kittens",
+                "subtitle": "A Step-by-Step Guide to Drawing Totally Floofy Felines and Their Worlds",
+                "authors": [
+                    "Vera Kay"
+                ],
+                "publisher": "Walter Foster",
+                "publishedDate": "2025-03-25",
+                "description": "How to Draw Squishy Cats and Kittens is filled with adorable cats, instructional drawing projects, and coloring pages perfect for beginning artists of all ages.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780760393468"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "076039346X"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 114,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JwsSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JwsSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=JwsSEQAAQBAJ&printsec=frontcover&dq=cats&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=JwsSEQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Draw_Squishy_Cats_and_Kittens.html?hl=&id=JwsSEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.uk/books/download/How_to_Draw_Squishy_Cats_and_Kittens-sample-pdf.acsm?id=JwsSEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JwsSEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "How to Draw Squishy Cats and Kittens is filled with adorable cats, instructional drawing projects, and coloring pages perfect for beginning artists of all ages."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "rzcKEQAAQBAJ",
+            "etag": "MpIhD9F+l0A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rzcKEQAAQBAJ",
+            "volumeInfo": {
+                "title": "The Blanket Cats",
+                "authors": [
+                    "Kiyoshi Shigematsu"
+                ],
+                "publisher": "Penguin Group",
+                "publishedDate": "2025-02-25",
+                "description": "\"Utterly charming . . . I would read a hundred of these stories.\" —Shelby Van Pelt, New York Times bestselling author of Remarkably Bright Creatures Seven struggling customers are given the unique opportunity to take home a \"blanket cat\" . . . but only for three days, the time it’ll take to change their lives. A peculiar pet shop in Tokyo has been known to offer customers the unique opportunity to take home one of seven special cats, whose \"magic\" is never promised, but always received. But there are rules: these cats must be returned after three days. They must eat only the food supplied by the owner, and they must travel to their new homes with a distinctive blanket. In The Blanket Cats, we meet seven customers, each of whom is hoping a temporary feline companion will help them escape a certain reality, including a couple struggling with infertility, a middle-aged woman on the run from the police, and two families in very different circumstances simply seeking joy. But like all their kind, the \"blanket cats\" are mysterious creatures with unknowable agendas, who delight in confounding expectations. And perhaps what their hosts are looking for isn't really what they need. Three days may not be enough to change a life. But it might just change how you see it.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593852699"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593852699"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 273,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=rzcKEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=rzcKEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=rzcKEQAAQBAJ&printsec=frontcover&dq=cats&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=rzcKEQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Blanket_Cats.html?hl=&id=rzcKEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.uk/books/download/The_Blanket_Cats-sample-pdf.acsm?id=rzcKEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rzcKEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "I would read a hundred of these stories.&quot; —Shelby Van Pelt, New York Times bestselling author of Remarkably Bright Creatures Seven struggling customers are given the unique opportunity to take home a &quot;blanket cat&quot; . . . but only for three ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "pwVCEQAAQBAJ",
+            "etag": "OI8UUZLwEcA",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/pwVCEQAAQBAJ",
+            "volumeInfo": {
+                "title": "Cat Is Love : Caring for Cats and Everything You Need To Know",
+                "authors": [
+                    "Mary Saliha"
+                ],
+                "publisher": "Ulil Albab Publishing",
+                "publishedDate": "2025-01-26",
+                "description": "Do you want to have better understanding abou cat ? What are the best nutritions for cat ? How to increase the level of health and wellness of cat ? How to increase your cat's happiness ? How to care aging cats ? How to travel with cats ? Find out the answers in this lovely FREE ebook.",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 53,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=pwVCEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=pwVCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=pwVCEQAAQBAJ&printsec=frontcover&dq=cats&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=pwVCEQAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pwVCEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 0,
+                    "currencyCode": "GBP"
+                },
+                "retailPrice": {
+                    "amount": 0,
+                    "currencyCode": "GBP"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=pwVCEQAAQBAJ&rdid=book-pwVCEQAAQBAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=pwVCEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Do you want to have better understanding abou cat ?"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "JQsSEQAAQBAJ",
+            "etag": "MMWwhtcl0tM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/JQsSEQAAQBAJ",
+            "volumeInfo": {
+                "title": "How to Draw Squishy Cats and Kittens",
+                "subtitle": "A Step-by-Step Guide to Drawing Totally Floofy Felines and Their Worlds",
+                "authors": [
+                    "Vera Kay"
+                ],
+                "publisher": "Walter Foster Publishing",
+                "publishedDate": "2025-03-25",
+                "description": "Calling all cat people! Channel your feline fervor with these step-by-step drawing projects and coloring pages filled with adorable kitties. From Vera Kay, a rising young artist who goes by @veekachoo online, How to Draw Squishy Cats and Kittens teaches you to draw cats in all kinds of cute positions and situations, including sleeping, jumping, scratching, chasing, and more. This fun book is divided into chapters focusing on: Degrees of floof How to add floof Adding color to line art Common cat poses Cats and their kingdoms A squishy birthday party! Each chapter is filled with helpful instruction and tips for drawing cats, both digitally and with traditional drawing tools. Veekachoo’s hundreds of thousands of online followers give her lots of positive feedback and often credit her art with inspiring them to start drawing. This is the first book from this trending artist whose career continues to grow through her social media channels and online classes. Cat lovers, rejoice! This book is for you!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780760393475"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0760393478"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=JQsSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=JQsSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=JQsSEQAAQBAJ&dq=cats&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=JQsSEQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Draw_Squishy_Cats_and_Kittens.html?hl=&id=JQsSEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=JQsSEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This is the first book from this trending artist whose career continues to grow through her social media channels and online classes. Cat lovers, rejoice! This book is for you!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "rS03EQAAQBAJ",
+            "etag": "N9SlK6sjgMk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/rS03EQAAQBAJ",
+            "volumeInfo": {
+                "title": "Pixel Cats",
+                "subtitle": "Fun and Relaxing Coloring Pages with Adorable Cats and Cute Cityscapes",
+                "authors": [
+                    "Lainie Dao"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2025-01-07",
+                "description": "Indulge your imagination in a purrfect world filled with futuristic felines and their techno houses in this coloring book for cat lovers, adults and kids alike! Unleash your creativity within the pages of Pixel Cats and find a way to relax and enjoy the fancy spaceships and sleek architecture. The journey will take you to never-seen-before places where cybermeows reign and fans of kittens and felines will rejoice. This cybernetic jungle includes detailed pages for endless fun and de-stressing hours. This coloring book mixes the intrinsic details of a futuristic world where cats rule the world and where nature and its feline creatures are beautifully balanced. These joyful scenes will let your creativity and imagination run wild with each stroke of your favorite coloring pencils!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781646047598"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1646047591"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 56,
+                "printType": "BOOK",
+                "categories": [
+                    "Art"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=rS03EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=rS03EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=rS03EQAAQBAJ&printsec=frontcover&dq=cats&hl=&cd=6&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=rS03EQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Pixel_Cats.html?hl=&id=rS03EQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=rS03EQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Indulge your imagination in a purrfect world filled with futuristic felines and their techno houses in this coloring book for cat lovers, adults and kids alike!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "BTUKEQAAQBAJ",
+            "etag": "0JXBTnz6CTU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/BTUKEQAAQBAJ",
+            "volumeInfo": {
+                "title": "The Blanket Cats",
+                "authors": [
+                    "Kiyoshi Shigematsu"
+                ],
+                "publisher": "Penguin",
+                "publishedDate": "2025-02-25",
+                "description": "\"Utterly charming . . . I would read a hundred of these stories.\" —Shelby Van Pelt, New York Times bestselling author of Remarkably Bright Creatures Seven struggling customers are given the unique opportunity to take home a \"blanket cat\" . . . but only for three days, the time it’ll take to change their lives. A peculiar pet shop in Tokyo has been known to offer customers the unique opportunity to take home one of seven special cats, whose \"magic\" is never promised, but always received. But there are rules: these cats must be returned after three days. They must eat only the food supplied by the owner, and they must travel to their new homes with a distinctive blanket. In The Blanket Cats, we meet seven customers, each of whom is hoping a temporary feline companion will help them escape a certain reality, including a couple struggling with infertility, a middle-aged woman on the run from the police, and two families in very different circumstances simply seeking joy. But like all their kind, the \"blanket cats\" are mysterious creatures with unknowable agendas, who delight in confounding expectations. And perhaps what their hosts are looking for isn't really what they need. Three days may not be enough to change a life. But it might just change how you see it.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780593852705"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0593852702"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=BTUKEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=BTUKEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=BTUKEQAAQBAJ&dq=cats&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=BTUKEQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Blanket_Cats.html?hl=&id=BTUKEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=BTUKEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "I would read a hundred of these stories.&quot; —Shelby Van Pelt, New York Times bestselling author of Remarkably Bright Creatures Seven struggling customers are given the unique opportunity to take home a &quot;blanket cat&quot; . . . but only for three ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "lvkhEQAAQBAJ",
+            "etag": "hRD3AUZZhh8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/lvkhEQAAQBAJ",
+            "volumeInfo": {
+                "title": "The Interpretation of Cats",
+                "subtitle": "Understanding the Psychology of Our Feline Companions",
+                "authors": [
+                    "Claude Béata"
+                ],
+                "publisher": "Simon and Schuster",
+                "publishedDate": "2024-10-15",
+                "description": "“A fount of practical tips for cat owners.” —The New York Times From a leading veterinary psychiatrist, a groundbreaking exploration into the minds of our feline companions and “a guide to being the best humans we can be for our cats” (Focus Vif). Cats are mysterious creatures, and the relationship between humans and cats has never been simple. Curious and affectionate, independent and uninterested, predator and prey. Their true nature continues to elude us, and their subtle and complex behavioral problems can often seem unsolvable or incomprehensible. So, how can we tell if a cat is suffering? What are the root causes of feline aggression? And how can we treat patients who can’t speak for themselves? In this fascinating book—already a bestseller in its native France—veterinary doctor and psychiatrist Claude Béata draws on cutting-edge research and decades of experience to revolutionize our understanding of cats and transform our appreciation of feline mental wellbeing. Here, we meet Nougatine, a Siamese suffering from bipolar dysthymic disorder, Tabatha, an anxious Ragdoll with attachment issues, and Melly, an Abyssinian struggling with a feline form of schizophrenia—as well as their owners who seek advice and support. Charming, surprising, and offering illuminating insight into a range of disorders, Béata’s book calls for greater compassion and provides a new way of understanding cat behavior so we can care for the mental, and physical wellness of our beloved furry friends.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781668070659"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1668070650"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 272,
+                "printType": "BOOK",
+                "categories": [
+                    "Medical"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=lvkhEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=lvkhEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=lvkhEQAAQBAJ&printsec=frontcover&dq=cats&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=lvkhEQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Interpretation_of_Cats.html?hl=&id=lvkhEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=lvkhEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&quot;From a leading veterinary psychiatrist, a groundbreaking exploration into the minds of our feline companions...&quot;--Provided by publisher."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "OtgUEQAAQBAJ",
+            "etag": "bmYNxStDUuY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/OtgUEQAAQBAJ",
+            "volumeInfo": {
+                "title": "Do Cats Eat Turtles?",
+                "authors": [
+                    "Cynthia G Longino"
+                ],
+                "publisher": "Page Publishing Inc",
+                "publishedDate": "2024-07-17",
+                "description": "My great-niece was visiting with me. A tree limb had fallen in the pond, and a family of turtles were sitting on the limb. She noticed that they were missing for several days. However, a large black cat was sitting on the limb where the turtles had sat. She wanted to know if the cat had eaten the turtles.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9798887933603"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 131,
+                "printType": "BOOK",
+                "categories": [
+                    "Juvenile Nonfiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=OtgUEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=OtgUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=OtgUEQAAQBAJ&printsec=frontcover&dq=cats&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=OtgUEQAAQBAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Do_Cats_Eat_Turtles.html?hl=&id=OtgUEQAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.uk/books/download/Do_Cats_Eat_Turtles-sample-epub.acsm?id=OtgUEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.co.uk/books/download/Do_Cats_Eat_Turtles-sample-pdf.acsm?id=OtgUEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=OtgUEQAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "My great-niece was visiting with me."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "0_T50AEACAAJ",
+            "etag": "i8t0vmM5Sac",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0_T50AEACAAJ",
+            "volumeInfo": {
+                "title": "Cool Cats",
+                "subtitle": "Stories of Extraordinary Cat Dads",
+                "authors": [
+                    "Janet Vormittag"
+                ],
+                "publisher": "Jlv Enterprises LLC",
+                "publishedDate": "2024-11-10",
+                "description": "In Cool Cats, Stories of Extraordinary Cat Dads, you'll meet several men, and a couple boys, who appreciate the companionship of cats. The prevalent stereotype is that men prefer dogs while women favor cats. After all, dogs are man's best friend and women are crazy cat ladies. But these mainstream views are starting to crack. Have guys always loved cats? Maybe they didn't dare admit it in a world full of macho, out-spoken, dog-loving men. Or perhaps they're finally taking the time to notice the intricacies of cats. Women who favor cats aren't crazy; they're compassionate and wise. They know cats are delightful companions. Cats are loving, entertaining and helpful-who hasn't made a bed with the help of a cat? Finally, it seems, men are catching on-or, at least, are now coming forward to admit their love of cats. There are men as crazy about cats as us crazy cat ladies. In Cool Cats, Stories of Extraordinary Cat Dads you'll meet: The retired university professor who cares for a colony of feral cats. The homebuyer who was okay to learn his new house came with 16 barn cats. The guy who was crushed when his wife got two of their four cats in their divorce settlement. The man who had four figurines of cats on his wedding cake instead of a bride and groom-two represented his cats and two represented his bride's cats. The craft-beer loving cat guru whose license plate is CAT D4D. And many more devoted cat dads.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0998698768"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780998698762"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Pets"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=0_T50AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0_T50AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=0_T50AEACAAJ&dq=cats&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=0_T50AEACAAJ&dq=cats&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Cool_Cats.html?hl=&id=0_T50AEACAAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=0_T50AEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "In Cool Cats, Stories of Extraordinary Cat Dads, you&#39;ll meet several men, and a couple boys, who appreciate the companionship of cats."
+            }
+        }
+    ]
+}
