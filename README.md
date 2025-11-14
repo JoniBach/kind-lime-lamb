@@ -30,12 +30,12 @@ A simple Android library app demonstrating clean architecture and modern Android
 
 Displays 10 books with working search
 
+## Key Features
+
 ## MVVM Pattern
 ```
 UI (Composables) → ViewModel (StateFlow) → Repository → JSON Data
 ```
-
-## Key Features
 
 ### Implemented 
 - **Book List**: Displays 10 books from mocked data
@@ -99,20 +99,9 @@ UI (Composables) → ViewModel (StateFlow) → Repository → JSON Data
 - Component architecture
 - Code quality & documentation
 
-## Dependencies
-
-```kotlin
-// Core
-implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
-implementation("androidx.navigation:navigation-compose:2.8.4")
-
-// JSON Parsing
-implementation("com.google.code.gson:gson:2.10.1")
-```
-
 ## Testing the App
 
-1. **Launch**: See list of 10 cat-related books
+1. **Launch**: See list of books
 2. **Search**: Type "Tom Gauld" → filters to 1 book
 3. **Click book**: Opens details screen
 4. **Back button**: Returns to list (search preserved)
